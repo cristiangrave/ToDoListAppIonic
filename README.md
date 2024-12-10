@@ -24,4 +24,4 @@ Esta esta una aplicacion para llevar el control de tus tareas creadad en ionic c
 
 3. Run `npm install` instalar dependencias de node.
 4. Run `ionic serve` iniciar el server local de ionic dentro de nuestro navegador.
-5. Una vez levantado el servidos podemos ver `http://localhost:8100/` aqui podemos ver el s.
+5. Una vez levantado el servidos podemos ver `http://localhost:8100/` aqui podemos ver el.
