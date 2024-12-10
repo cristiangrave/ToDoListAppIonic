@@ -17,7 +17,7 @@
         <ion-item>
           <ion-input
             [(ngModel)]="todoEntry"
-            label="Ingresar nueva Tarea"
+            label="Ingresar Nueva Tarea"
             labelPlacement="floating"
           ></ion-input>
         </ion-item>
@@ -42,7 +42,7 @@
         </ion-item>
 
         <ion-item-options side="end">
-          <ion-item-option color="primary" (click)="setCompleted(todo.id)">
+          <ion-item-option color="success" (click)="setCompleted(todo.id)">
             <ion-icon
               slot="icon-only"
               name="checkmark-circle-outline"
