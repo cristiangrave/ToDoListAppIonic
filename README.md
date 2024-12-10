@@ -2,17 +2,13 @@
 
 Esta esta una aplicacion para llevar el control de tus tareas creadad en ionic con angular
 
-## Demo
-
-![Demo](https://ibrahimisa.com/repo-data/ionic-todo.gif)
-
-## Features
+## Caracteristicas
 
 - Agrega tareas por medio del btn de +
 - Puedes actualizar el estado de las tareas
 - Pudes eliminar tareas por medio del boton de eliminar que tiene al lado derecho.
 
-## Technologies Used
+## Stack de Tecnologias
 
 - Ionic
 - Angular
@@ -20,7 +16,7 @@ Esta esta una aplicacion para llevar el control de tus tareas creadad en ionic c
 - HTML
 - CSS
 
-## Como correr el proyecto.
+## Como Correr el proyecto.
 
 3. Run `npm install` instalar dependencias de node.
 4. Run `ionic serve` iniciar el server local de ionic dentro de nuestro navegador.
